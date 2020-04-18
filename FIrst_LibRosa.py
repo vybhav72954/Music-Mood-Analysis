@@ -17,5 +17,5 @@ for file in range(0, len(audio_files), 1):
     fig, ax = plt.subplots()
     ax.plot(time, audio)
     ax.set(xlabel='Time (s)', ylabel='Sound Amplitude')
-    plt.savefig('Graph_{}.png'.format(file, output_dir), format="PNG")
+    plt.savefig(f'{output_dir}/Graph_{file}.png', format="PNG")
     plt.show()
