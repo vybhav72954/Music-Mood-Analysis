@@ -1,3 +1,7 @@
+#Chroma Pitchclass
+#Tonal Centroids
+
+
 import librosa.display
 import librosa as lr
 import matplotlib.pyplot as plt
@@ -60,3 +64,4 @@ for file in range(0, len(audio_files), 1):
     plt.show()
 
 print('Tonal Centroids Done, Pitch Formatter  Done')
+
