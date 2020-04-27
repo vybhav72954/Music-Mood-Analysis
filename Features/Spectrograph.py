@@ -40,6 +40,7 @@ for file in range(0, len(audio_files), 1):
     librosa.display.specshow(D, y_axis='linear')
     plt.colorbar(format='%+2.0f dB')
     plt.title('Linear-frequency power spectrogram')
+    plt.savefig(f'{output_dir}/Graph_{file}.png', format="PNG")
     plt.show()
 
 
