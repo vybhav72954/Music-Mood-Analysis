@@ -16,3 +16,5 @@ except OSError as exc:
 
 else:
     print("Successfully created the directory %s" % output_dir)
+#  plt.savefig(f'{output_dir}/Graph_{file}.png', format="PNG")
+#  This Fumction is needed plt.show() to save files in the output_dir
