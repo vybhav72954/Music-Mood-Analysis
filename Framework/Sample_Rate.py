@@ -30,6 +30,6 @@ print('Done Sample Rate')
 for file in range(0, len(audio_files), 1):
 
     y, sr = lr.load(audio_files[file], mono=True)
-    print(y)
+    print(sr)
 print('Done Audio Input Array')
     
