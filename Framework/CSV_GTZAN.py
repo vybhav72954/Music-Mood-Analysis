@@ -1,9 +1,9 @@
-# READ THE INSTRUCTION
+# READ THE INSTRUCTIONS
 # This is Specifically designed for GTZAN Database
 # Will revise it by 2nd May
 # Then Only can be used for other Directories
 # Only works on preprocessed DATA (IMPORTANT)
-
+# Download TensorFlow and Keras before anything (Use YT Videos)
 
 import librosa
 import pandas as pd
