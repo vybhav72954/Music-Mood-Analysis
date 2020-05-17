@@ -7,14 +7,14 @@
 
 import librosa
 import pandas as pd
-import numpy as np
+import ArrayView as np
 import matplotlib.pyplot as plt
 
 import os
 import csv
 
-#   from sklearn.model_selection import train_test_split
-#   from sklearn.preprocessing import LabelEncoder, StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 header = 'filename chroma_stft rmse spectral_centroid spectral_bandwidth rolloff zero_crossing_rate'
 for i in range(1, 21):
@@ -22,14 +22,14 @@ for i in range(1, 21):
 header += ' label'
 header = header.split()
 
-file = open('C:/Users/asus/Desktop/GTZAN.csv', 'w', newline='') # Where you want to save the file
+file = open('C:/Users/asus/Desktop/GTZAN.csv', 'w', newline='')
 with file:
     writer = csv.writer(file)
     writer.writerow(header)
 genres = 'blues classical country disco hiphop jazz metal pop reggae rock'.split()
 for g in genres:
-    for filename in os.listdir(f'C:/Users/asus/Desktop/GTZAN/{g}'): # Where is the Database Direcory
-        songname = f'C:/Users/asus/Desktop/GTZAN/{g}/{filename}' # Where are the Songs
+    for filename in os.listdir(f'C:/Users/asus/Desktop/GTZAN/{g}'):
+        songname = f'C:/Users/asus/Desktop/GTZAN/{g}/{filename}'
         y, sr = librosa.load(songname, mono=True, duration=30)
         chroma_stft = librosa.feature.chroma_stft(y=y, sr=sr)
         rmse = librosa.feature.rms(y=y)
@@ -42,7 +42,7 @@ for g in genres:
         for e in mfcc:
             to_append += f' {np.mean(e)}'
         to_append += f' {g}'
-        file = open('data.csv', 'a', newline='')
+        file = open('C:/Users/asus/Desktop/GTZAN.csv', 'a', newline='')
         with file:
             writer = csv.writer(file)
             writer.writerow(to_append.split())
