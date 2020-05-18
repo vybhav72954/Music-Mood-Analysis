@@ -1,0 +1,6 @@
+from pyAudioAnalysis import audioBasicIO
+from pyAudioAnalysis import ShortTermFeatures
+from pyAudioAnalysis import MidTermFeatures
+
+[mid_term_features, wav_file_list2, mid_feature_names] = MidTermFeatures.directory_feature_extraction("D:/Capstone/Testing/New_directory",  1.0 , 0.75 , 0.050, 0.005 , compute_beat=True)
+print(wav_file_list2)
