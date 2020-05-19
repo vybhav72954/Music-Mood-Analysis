@@ -1,0 +1,1738 @@
+C:\Users\MADHUKAR\Anaconda3\envs\capstone\python.exe "C:\Program Files\JetBrains\PyCharm 2019.3.2\plugins\python\helpers\profiler\run_profiler.py" 127.0.0.1 53893 C:/Users/MADHUKAR/PycharmProjects/capstone/svm.py
+Starting cProfile profiler
+
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop\pop.00099.wav
+Feature extraction complexity ratio: 17.4 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country\country.00099.wav
+Feature extraction complexity ratio: 17.5 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues\blues.00099.wav
+Feature extraction complexity ratio: 17.3 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco\disco.00099.wav
+Feature extraction complexity ratio: 17.3 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz\jazz.00099.wav
+Feature extraction complexity ratio: 17.3 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical\classical.00099.wav
+Feature extraction complexity ratio: 17.3 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop\hiphop.00099.wav
+Feature extraction complexity ratio: 17.0 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal\metal.00099.wav
+Feature extraction complexity ratio: 16.8 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae\reggae.00099.wav
+Feature extraction complexity ratio: 17.1 x realtime
+Analyzing file 1 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00000.wav
+Analyzing file 2 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00001.wav
+Analyzing file 3 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00002.wav
+Analyzing file 4 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00003.wav
+Analyzing file 5 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00004.wav
+Analyzing file 6 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00005.wav
+Analyzing file 7 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00006.wav
+Analyzing file 8 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00007.wav
+Analyzing file 9 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00008.wav
+Analyzing file 10 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00009.wav
+Analyzing file 11 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00010.wav
+Analyzing file 12 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00011.wav
+Analyzing file 13 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00012.wav
+Analyzing file 14 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00013.wav
+Analyzing file 15 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00014.wav
+Analyzing file 16 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00015.wav
+Analyzing file 17 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00016.wav
+Analyzing file 18 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00017.wav
+Analyzing file 19 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00018.wav
+Analyzing file 20 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00019.wav
+Analyzing file 21 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00020.wav
+Analyzing file 22 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00021.wav
+Analyzing file 23 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00022.wav
+Analyzing file 24 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00023.wav
+Analyzing file 25 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00024.wav
+Analyzing file 26 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00025.wav
+Analyzing file 27 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00026.wav
+Analyzing file 28 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00027.wav
+Analyzing file 29 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00028.wav
+Analyzing file 30 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00029.wav
+Analyzing file 31 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00030.wav
+Analyzing file 32 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00031.wav
+Analyzing file 33 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00032.wav
+Analyzing file 34 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00033.wav
+Analyzing file 35 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00034.wav
+Analyzing file 36 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00035.wav
+Analyzing file 37 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00036.wav
+Analyzing file 38 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00037.wav
+Analyzing file 39 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00038.wav
+Analyzing file 40 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00039.wav
+Analyzing file 41 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00040.wav
+Analyzing file 42 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00041.wav
+Analyzing file 43 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00042.wav
+Analyzing file 44 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00043.wav
+Analyzing file 45 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00044.wav
+Analyzing file 46 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00045.wav
+Analyzing file 47 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00046.wav
+Analyzing file 48 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00047.wav
+Analyzing file 49 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00048.wav
+Analyzing file 50 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00049.wav
+Analyzing file 51 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00050.wav
+Analyzing file 52 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00051.wav
+Analyzing file 53 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00052.wav
+Analyzing file 54 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00053.wav
+Analyzing file 55 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00054.wav
+Analyzing file 56 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00055.wav
+Analyzing file 57 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00056.wav
+Analyzing file 58 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00057.wav
+Analyzing file 59 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00058.wav
+Analyzing file 60 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00059.wav
+Analyzing file 61 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00060.wav
+Analyzing file 62 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00061.wav
+Analyzing file 63 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00062.wav
+Analyzing file 64 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00063.wav
+Analyzing file 65 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00064.wav
+Analyzing file 66 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00065.wav
+Analyzing file 67 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00066.wav
+Analyzing file 68 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00067.wav
+Analyzing file 69 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00068.wav
+Analyzing file 70 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00069.wav
+Analyzing file 71 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00070.wav
+Analyzing file 72 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00071.wav
+Analyzing file 73 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00072.wav
+Analyzing file 74 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00073.wav
+Analyzing file 75 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00074.wav
+Analyzing file 76 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00075.wav
+Analyzing file 77 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00076.wav
+Analyzing file 78 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00077.wav
+Analyzing file 79 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00078.wav
+Analyzing file 80 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00079.wav
+Analyzing file 81 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00080.wav
+Analyzing file 82 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00081.wav
+Analyzing file 83 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00082.wav
+Analyzing file 84 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00083.wav
+Analyzing file 85 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00084.wav
+Analyzing file 86 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00085.wav
+Analyzing file 87 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00086.wav
+Analyzing file 88 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00087.wav
+Analyzing file 89 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00088.wav
+Analyzing file 90 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00089.wav
+Analyzing file 91 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00090.wav
+Analyzing file 92 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00091.wav
+Analyzing file 93 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00092.wav
+Analyzing file 94 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00093.wav
+Analyzing file 95 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00094.wav
+Analyzing file 96 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00095.wav
+Analyzing file 97 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00096.wav
+Analyzing file 98 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00097.wav
+Analyzing file 99 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00098.wav
+Analyzing file 100 of 100: C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock\rock.00099.wav
+Feature extraction complexity ratio: 17.4 x realtime
+Param = 0.00100 - classifier Evaluation Experiment 1 of 100
+Param = 0.00100 - classifier Evaluation Experiment 2 of 100
+Param = 0.00100 - classifier Evaluation Experiment 3 of 100
+Param = 0.00100 - classifier Evaluation Experiment 4 of 100
+Param = 0.00100 - classifier Evaluation Experiment 5 of 100
+Param = 0.00100 - classifier Evaluation Experiment 6 of 100
+Param = 0.00100 - classifier Evaluation Experiment 7 of 100
+Param = 0.00100 - classifier Evaluation Experiment 8 of 100
+Param = 0.00100 - classifier Evaluation Experiment 9 of 100
+Param = 0.00100 - classifier Evaluation Experiment 10 of 100
+Param = 0.00100 - classifier Evaluation Experiment 11 of 100
+Param = 0.00100 - classifier Evaluation Experiment 12 of 100
+Param = 0.00100 - classifier Evaluation Experiment 13 of 100
+Param = 0.00100 - classifier Evaluation Experiment 14 of 100
+Param = 0.00100 - classifier Evaluation Experiment 15 of 100
+Param = 0.00100 - classifier Evaluation Experiment 16 of 100
+Param = 0.00100 - classifier Evaluation Experiment 17 of 100
+Param = 0.00100 - classifier Evaluation Experiment 18 of 100
+Param = 0.00100 - classifier Evaluation Experiment 19 of 100
+Param = 0.00100 - classifier Evaluation Experiment 20 of 100
+Param = 0.00100 - classifier Evaluation Experiment 21 of 100
+Param = 0.00100 - classifier Evaluation Experiment 22 of 100
+Param = 0.00100 - classifier Evaluation Experiment 23 of 100
+Param = 0.00100 - classifier Evaluation Experiment 24 of 100
+Param = 0.00100 - classifier Evaluation Experiment 25 of 100
+Param = 0.00100 - classifier Evaluation Experiment 26 of 100
+Param = 0.00100 - classifier Evaluation Experiment 27 of 100
+Param = 0.00100 - classifier Evaluation Experiment 28 of 100
+Param = 0.00100 - classifier Evaluation Experiment 29 of 100
+Param = 0.00100 - classifier Evaluation Experiment 30 of 100
+Param = 0.00100 - classifier Evaluation Experiment 31 of 100
+Param = 0.00100 - classifier Evaluation Experiment 32 of 100
+Param = 0.00100 - classifier Evaluation Experiment 33 of 100
+Param = 0.00100 - classifier Evaluation Experiment 34 of 100
+Param = 0.00100 - classifier Evaluation Experiment 35 of 100
+Param = 0.00100 - classifier Evaluation Experiment 36 of 100
+Param = 0.00100 - classifier Evaluation Experiment 37 of 100
+Param = 0.00100 - classifier Evaluation Experiment 38 of 100
+Param = 0.00100 - classifier Evaluation Experiment 39 of 100
+Param = 0.00100 - classifier Evaluation Experiment 40 of 100
+Param = 0.00100 - classifier Evaluation Experiment 41 of 100
+Param = 0.00100 - classifier Evaluation Experiment 42 of 100
+Param = 0.00100 - classifier Evaluation Experiment 43 of 100
+Param = 0.00100 - classifier Evaluation Experiment 44 of 100
+Param = 0.00100 - classifier Evaluation Experiment 45 of 100
+Param = 0.00100 - classifier Evaluation Experiment 46 of 100
+Param = 0.00100 - classifier Evaluation Experiment 47 of 100
+Param = 0.00100 - classifier Evaluation Experiment 48 of 100
+Param = 0.00100 - classifier Evaluation Experiment 49 of 100
+Param = 0.00100 - classifier Evaluation Experiment 50 of 100
+Param = 0.00100 - classifier Evaluation Experiment 51 of 100
+Param = 0.00100 - classifier Evaluation Experiment 52 of 100
+Param = 0.00100 - classifier Evaluation Experiment 53 of 100
+Param = 0.00100 - classifier Evaluation Experiment 54 of 100
+Param = 0.00100 - classifier Evaluation Experiment 55 of 100
+Param = 0.00100 - classifier Evaluation Experiment 56 of 100
+Param = 0.00100 - classifier Evaluation Experiment 57 of 100
+Param = 0.00100 - classifier Evaluation Experiment 58 of 100
+Param = 0.00100 - classifier Evaluation Experiment 59 of 100
+Param = 0.00100 - classifier Evaluation Experiment 60 of 100
+Param = 0.00100 - classifier Evaluation Experiment 61 of 100
+Param = 0.00100 - classifier Evaluation Experiment 62 of 100
+Param = 0.00100 - classifier Evaluation Experiment 63 of 100
+Param = 0.00100 - classifier Evaluation Experiment 64 of 100
+Param = 0.00100 - classifier Evaluation Experiment 65 of 100
+Param = 0.00100 - classifier Evaluation Experiment 66 of 100
+Param = 0.00100 - classifier Evaluation Experiment 67 of 100
+Param = 0.00100 - classifier Evaluation Experiment 68 of 100
+Param = 0.00100 - classifier Evaluation Experiment 69 of 100
+Param = 0.00100 - classifier Evaluation Experiment 70 of 100
+Param = 0.00100 - classifier Evaluation Experiment 71 of 100
+Param = 0.00100 - classifier Evaluation Experiment 72 of 100
+Param = 0.00100 - classifier Evaluation Experiment 73 of 100
+Param = 0.00100 - classifier Evaluation Experiment 74 of 100
+Param = 0.00100 - classifier Evaluation Experiment 75 of 100
+Param = 0.00100 - classifier Evaluation Experiment 76 of 100
+Param = 0.00100 - classifier Evaluation Experiment 77 of 100
+Param = 0.00100 - classifier Evaluation Experiment 78 of 100
+Param = 0.00100 - classifier Evaluation Experiment 79 of 100
+Param = 0.00100 - classifier Evaluation Experiment 80 of 100
+Param = 0.00100 - classifier Evaluation Experiment 81 of 100
+Param = 0.00100 - classifier Evaluation Experiment 82 of 100
+Param = 0.00100 - classifier Evaluation Experiment 83 of 100
+Param = 0.00100 - classifier Evaluation Experiment 84 of 100
+Param = 0.00100 - classifier Evaluation Experiment 85 of 100
+Param = 0.00100 - classifier Evaluation Experiment 86 of 100
+Param = 0.00100 - classifier Evaluation Experiment 87 of 100
+Param = 0.00100 - classifier Evaluation Experiment 88 of 100
+Param = 0.00100 - classifier Evaluation Experiment 89 of 100
+Param = 0.00100 - classifier Evaluation Experiment 90 of 100
+Param = 0.00100 - classifier Evaluation Experiment 91 of 100
+Param = 0.00100 - classifier Evaluation Experiment 92 of 100
+Param = 0.00100 - classifier Evaluation Experiment 93 of 100
+Param = 0.00100 - classifier Evaluation Experiment 94 of 100
+Param = 0.00100 - classifier Evaluation Experiment 95 of 100
+Param = 0.00100 - classifier Evaluation Experiment 96 of 100
+Param = 0.00100 - classifier Evaluation Experiment 97 of 100
+Param = 0.00100 - classifier Evaluation Experiment 98 of 100
+Param = 0.00100 - classifier Evaluation Experiment 99 of 100
+Param = 0.00100 - classifier Evaluation Experiment 100 of 100
+Param = 0.01000 - classifier Evaluation Experiment 1 of 100
+Param = 0.01000 - classifier Evaluation Experiment 2 of 100
+Param = 0.01000 - classifier Evaluation Experiment 3 of 100
+Param = 0.01000 - classifier Evaluation Experiment 4 of 100
+Param = 0.01000 - classifier Evaluation Experiment 5 of 100
+Param = 0.01000 - classifier Evaluation Experiment 6 of 100
+Param = 0.01000 - classifier Evaluation Experiment 7 of 100
+Param = 0.01000 - classifier Evaluation Experiment 8 of 100
+Param = 0.01000 - classifier Evaluation Experiment 9 of 100
+Param = 0.01000 - classifier Evaluation Experiment 10 of 100
+Param = 0.01000 - classifier Evaluation Experiment 11 of 100
+Param = 0.01000 - classifier Evaluation Experiment 12 of 100
+Param = 0.01000 - classifier Evaluation Experiment 13 of 100
+Param = 0.01000 - classifier Evaluation Experiment 14 of 100
+Param = 0.01000 - classifier Evaluation Experiment 15 of 100
+Param = 0.01000 - classifier Evaluation Experiment 16 of 100
+Param = 0.01000 - classifier Evaluation Experiment 17 of 100
+Param = 0.01000 - classifier Evaluation Experiment 18 of 100
+Param = 0.01000 - classifier Evaluation Experiment 19 of 100
+Param = 0.01000 - classifier Evaluation Experiment 20 of 100
+Param = 0.01000 - classifier Evaluation Experiment 21 of 100
+Param = 0.01000 - classifier Evaluation Experiment 22 of 100
+Param = 0.01000 - classifier Evaluation Experiment 23 of 100
+Param = 0.01000 - classifier Evaluation Experiment 24 of 100
+Param = 0.01000 - classifier Evaluation Experiment 25 of 100
+Param = 0.01000 - classifier Evaluation Experiment 26 of 100
+Param = 0.01000 - classifier Evaluation Experiment 27 of 100
+Param = 0.01000 - classifier Evaluation Experiment 28 of 100
+Param = 0.01000 - classifier Evaluation Experiment 29 of 100
+Param = 0.01000 - classifier Evaluation Experiment 30 of 100
+Param = 0.01000 - classifier Evaluation Experiment 31 of 100
+Param = 0.01000 - classifier Evaluation Experiment 32 of 100
+Param = 0.01000 - classifier Evaluation Experiment 33 of 100
+Param = 0.01000 - classifier Evaluation Experiment 34 of 100
+Param = 0.01000 - classifier Evaluation Experiment 35 of 100
+Param = 0.01000 - classifier Evaluation Experiment 36 of 100
+Param = 0.01000 - classifier Evaluation Experiment 37 of 100
+Param = 0.01000 - classifier Evaluation Experiment 38 of 100
+Param = 0.01000 - classifier Evaluation Experiment 39 of 100
+Param = 0.01000 - classifier Evaluation Experiment 40 of 100
+Param = 0.01000 - classifier Evaluation Experiment 41 of 100
+Param = 0.01000 - classifier Evaluation Experiment 42 of 100
+Param = 0.01000 - classifier Evaluation Experiment 43 of 100
+Param = 0.01000 - classifier Evaluation Experiment 44 of 100
+Param = 0.01000 - classifier Evaluation Experiment 45 of 100
+Param = 0.01000 - classifier Evaluation Experiment 46 of 100
+Param = 0.01000 - classifier Evaluation Experiment 47 of 100
+Param = 0.01000 - classifier Evaluation Experiment 48 of 100
+Param = 0.01000 - classifier Evaluation Experiment 49 of 100
+Param = 0.01000 - classifier Evaluation Experiment 50 of 100
+Param = 0.01000 - classifier Evaluation Experiment 51 of 100
+Param = 0.01000 - classifier Evaluation Experiment 52 of 100
+Param = 0.01000 - classifier Evaluation Experiment 53 of 100
+Param = 0.01000 - classifier Evaluation Experiment 54 of 100
+Param = 0.01000 - classifier Evaluation Experiment 55 of 100
+Param = 0.01000 - classifier Evaluation Experiment 56 of 100
+Param = 0.01000 - classifier Evaluation Experiment 57 of 100
+Param = 0.01000 - classifier Evaluation Experiment 58 of 100
+Param = 0.01000 - classifier Evaluation Experiment 59 of 100
+Param = 0.01000 - classifier Evaluation Experiment 60 of 100
+Param = 0.01000 - classifier Evaluation Experiment 61 of 100
+Param = 0.01000 - classifier Evaluation Experiment 62 of 100
+Param = 0.01000 - classifier Evaluation Experiment 63 of 100
+Param = 0.01000 - classifier Evaluation Experiment 64 of 100
+Param = 0.01000 - classifier Evaluation Experiment 65 of 100
+Param = 0.01000 - classifier Evaluation Experiment 66 of 100
+Param = 0.01000 - classifier Evaluation Experiment 67 of 100
+Param = 0.01000 - classifier Evaluation Experiment 68 of 100
+Param = 0.01000 - classifier Evaluation Experiment 69 of 100
+Param = 0.01000 - classifier Evaluation Experiment 70 of 100
+Param = 0.01000 - classifier Evaluation Experiment 71 of 100
+Param = 0.01000 - classifier Evaluation Experiment 72 of 100
+Param = 0.01000 - classifier Evaluation Experiment 73 of 100
+Param = 0.01000 - classifier Evaluation Experiment 74 of 100
+Param = 0.01000 - classifier Evaluation Experiment 75 of 100
+Param = 0.01000 - classifier Evaluation Experiment 76 of 100
+Param = 0.01000 - classifier Evaluation Experiment 77 of 100
+Param = 0.01000 - classifier Evaluation Experiment 78 of 100
+Param = 0.01000 - classifier Evaluation Experiment 79 of 100
+Param = 0.01000 - classifier Evaluation Experiment 80 of 100
+Param = 0.01000 - classifier Evaluation Experiment 81 of 100
+Param = 0.01000 - classifier Evaluation Experiment 82 of 100
+Param = 0.01000 - classifier Evaluation Experiment 83 of 100
+Param = 0.01000 - classifier Evaluation Experiment 84 of 100
+Param = 0.01000 - classifier Evaluation Experiment 85 of 100
+Param = 0.01000 - classifier Evaluation Experiment 86 of 100
+Param = 0.01000 - classifier Evaluation Experiment 87 of 100
+Param = 0.01000 - classifier Evaluation Experiment 88 of 100
+Param = 0.01000 - classifier Evaluation Experiment 89 of 100
+Param = 0.01000 - classifier Evaluation Experiment 90 of 100
+Param = 0.01000 - classifier Evaluation Experiment 91 of 100
+Param = 0.01000 - classifier Evaluation Experiment 92 of 100
+Param = 0.01000 - classifier Evaluation Experiment 93 of 100
+Param = 0.01000 - classifier Evaluation Experiment 94 of 100
+Param = 0.01000 - classifier Evaluation Experiment 95 of 100
+Param = 0.01000 - classifier Evaluation Experiment 96 of 100
+Param = 0.01000 - classifier Evaluation Experiment 97 of 100
+Param = 0.01000 - classifier Evaluation Experiment 98 of 100
+Param = 0.01000 - classifier Evaluation Experiment 99 of 100
+Param = 0.01000 - classifier Evaluation Experiment 100 of 100
+Param = 0.50000 - classifier Evaluation Experiment 1 of 100
+Param = 0.50000 - classifier Evaluation Experiment 2 of 100
+Param = 0.50000 - classifier Evaluation Experiment 3 of 100
+Param = 0.50000 - classifier Evaluation Experiment 4 of 100
+Param = 0.50000 - classifier Evaluation Experiment 5 of 100
+Param = 0.50000 - classifier Evaluation Experiment 6 of 100
+Param = 0.50000 - classifier Evaluation Experiment 7 of 100
+Param = 0.50000 - classifier Evaluation Experiment 8 of 100
+Param = 0.50000 - classifier Evaluation Experiment 9 of 100
+Param = 0.50000 - classifier Evaluation Experiment 10 of 100
+Param = 0.50000 - classifier Evaluation Experiment 11 of 100
+Param = 0.50000 - classifier Evaluation Experiment 12 of 100
+Param = 0.50000 - classifier Evaluation Experiment 13 of 100
+Param = 0.50000 - classifier Evaluation Experiment 14 of 100
+Param = 0.50000 - classifier Evaluation Experiment 15 of 100
+Param = 0.50000 - classifier Evaluation Experiment 16 of 100
+Param = 0.50000 - classifier Evaluation Experiment 17 of 100
+Param = 0.50000 - classifier Evaluation Experiment 18 of 100
+Param = 0.50000 - classifier Evaluation Experiment 19 of 100
+Param = 0.50000 - classifier Evaluation Experiment 20 of 100
+Param = 0.50000 - classifier Evaluation Experiment 21 of 100
+Param = 0.50000 - classifier Evaluation Experiment 22 of 100
+Param = 0.50000 - classifier Evaluation Experiment 23 of 100
+Param = 0.50000 - classifier Evaluation Experiment 24 of 100
+Param = 0.50000 - classifier Evaluation Experiment 25 of 100
+Param = 0.50000 - classifier Evaluation Experiment 26 of 100
+Param = 0.50000 - classifier Evaluation Experiment 27 of 100
+Param = 0.50000 - classifier Evaluation Experiment 28 of 100
+Param = 0.50000 - classifier Evaluation Experiment 29 of 100
+Param = 0.50000 - classifier Evaluation Experiment 30 of 100
+Param = 0.50000 - classifier Evaluation Experiment 31 of 100
+Param = 0.50000 - classifier Evaluation Experiment 32 of 100
+Param = 0.50000 - classifier Evaluation Experiment 33 of 100
+Param = 0.50000 - classifier Evaluation Experiment 34 of 100
+Param = 0.50000 - classifier Evaluation Experiment 35 of 100
+Param = 0.50000 - classifier Evaluation Experiment 36 of 100
+Param = 0.50000 - classifier Evaluation Experiment 37 of 100
+Param = 0.50000 - classifier Evaluation Experiment 38 of 100
+Param = 0.50000 - classifier Evaluation Experiment 39 of 100
+Param = 0.50000 - classifier Evaluation Experiment 40 of 100
+Param = 0.50000 - classifier Evaluation Experiment 41 of 100
+Param = 0.50000 - classifier Evaluation Experiment 42 of 100
+Param = 0.50000 - classifier Evaluation Experiment 43 of 100
+Param = 0.50000 - classifier Evaluation Experiment 44 of 100
+Param = 0.50000 - classifier Evaluation Experiment 45 of 100
+Param = 0.50000 - classifier Evaluation Experiment 46 of 100
+Param = 0.50000 - classifier Evaluation Experiment 47 of 100
+Param = 0.50000 - classifier Evaluation Experiment 48 of 100
+Param = 0.50000 - classifier Evaluation Experiment 49 of 100
+Param = 0.50000 - classifier Evaluation Experiment 50 of 100
+Param = 0.50000 - classifier Evaluation Experiment 51 of 100
+Param = 0.50000 - classifier Evaluation Experiment 52 of 100
+Param = 0.50000 - classifier Evaluation Experiment 53 of 100
+Param = 0.50000 - classifier Evaluation Experiment 54 of 100
+Param = 0.50000 - classifier Evaluation Experiment 55 of 100
+Param = 0.50000 - classifier Evaluation Experiment 56 of 100
+Param = 0.50000 - classifier Evaluation Experiment 57 of 100
+Param = 0.50000 - classifier Evaluation Experiment 58 of 100
+Param = 0.50000 - classifier Evaluation Experiment 59 of 100
+Param = 0.50000 - classifier Evaluation Experiment 60 of 100
+Param = 0.50000 - classifier Evaluation Experiment 61 of 100
+Param = 0.50000 - classifier Evaluation Experiment 62 of 100
+Param = 0.50000 - classifier Evaluation Experiment 63 of 100
+Param = 0.50000 - classifier Evaluation Experiment 64 of 100
+Param = 0.50000 - classifier Evaluation Experiment 65 of 100
+Param = 0.50000 - classifier Evaluation Experiment 66 of 100
+Param = 0.50000 - classifier Evaluation Experiment 67 of 100
+Param = 0.50000 - classifier Evaluation Experiment 68 of 100
+Param = 0.50000 - classifier Evaluation Experiment 69 of 100
+Param = 0.50000 - classifier Evaluation Experiment 70 of 100
+Param = 0.50000 - classifier Evaluation Experiment 71 of 100
+Param = 0.50000 - classifier Evaluation Experiment 72 of 100
+Param = 0.50000 - classifier Evaluation Experiment 73 of 100
+Param = 0.50000 - classifier Evaluation Experiment 74 of 100
+Param = 0.50000 - classifier Evaluation Experiment 75 of 100
+Param = 0.50000 - classifier Evaluation Experiment 76 of 100
+Param = 0.50000 - classifier Evaluation Experiment 77 of 100
+Param = 0.50000 - classifier Evaluation Experiment 78 of 100
+Param = 0.50000 - classifier Evaluation Experiment 79 of 100
+Param = 0.50000 - classifier Evaluation Experiment 80 of 100
+Param = 0.50000 - classifier Evaluation Experiment 81 of 100
+Param = 0.50000 - classifier Evaluation Experiment 82 of 100
+Param = 0.50000 - classifier Evaluation Experiment 83 of 100
+Param = 0.50000 - classifier Evaluation Experiment 84 of 100
+Param = 0.50000 - classifier Evaluation Experiment 85 of 100
+Param = 0.50000 - classifier Evaluation Experiment 86 of 100
+Param = 0.50000 - classifier Evaluation Experiment 87 of 100
+Param = 0.50000 - classifier Evaluation Experiment 88 of 100
+Param = 0.50000 - classifier Evaluation Experiment 89 of 100
+Param = 0.50000 - classifier Evaluation Experiment 90 of 100
+Param = 0.50000 - classifier Evaluation Experiment 91 of 100
+Param = 0.50000 - classifier Evaluation Experiment 92 of 100
+Param = 0.50000 - classifier Evaluation Experiment 93 of 100
+Param = 0.50000 - classifier Evaluation Experiment 94 of 100
+Param = 0.50000 - classifier Evaluation Experiment 95 of 100
+Param = 0.50000 - classifier Evaluation Experiment 96 of 100
+Param = 0.50000 - classifier Evaluation Experiment 97 of 100
+Param = 0.50000 - classifier Evaluation Experiment 98 of 100
+Param = 0.50000 - classifier Evaluation Experiment 99 of 100
+Param = 0.50000 - classifier Evaluation Experiment 100 of 100
+Param = 1.00000 - classifier Evaluation Experiment 1 of 100
+Param = 1.00000 - classifier Evaluation Experiment 2 of 100
+Param = 1.00000 - classifier Evaluation Experiment 3 of 100
+Param = 1.00000 - classifier Evaluation Experiment 4 of 100
+Param = 1.00000 - classifier Evaluation Experiment 5 of 100
+Param = 1.00000 - classifier Evaluation Experiment 6 of 100
+Param = 1.00000 - classifier Evaluation Experiment 7 of 100
+Param = 1.00000 - classifier Evaluation Experiment 8 of 100
+Param = 1.00000 - classifier Evaluation Experiment 9 of 100
+Param = 1.00000 - classifier Evaluation Experiment 10 of 100
+Param = 1.00000 - classifier Evaluation Experiment 11 of 100
+Param = 1.00000 - classifier Evaluation Experiment 12 of 100
+Param = 1.00000 - classifier Evaluation Experiment 13 of 100
+Param = 1.00000 - classifier Evaluation Experiment 14 of 100
+Param = 1.00000 - classifier Evaluation Experiment 15 of 100
+Param = 1.00000 - classifier Evaluation Experiment 16 of 100
+Param = 1.00000 - classifier Evaluation Experiment 17 of 100
+Param = 1.00000 - classifier Evaluation Experiment 18 of 100
+Param = 1.00000 - classifier Evaluation Experiment 19 of 100
+Param = 1.00000 - classifier Evaluation Experiment 20 of 100
+Param = 1.00000 - classifier Evaluation Experiment 21 of 100
+Param = 1.00000 - classifier Evaluation Experiment 22 of 100
+Param = 1.00000 - classifier Evaluation Experiment 23 of 100
+Param = 1.00000 - classifier Evaluation Experiment 24 of 100
+Param = 1.00000 - classifier Evaluation Experiment 25 of 100
+Param = 1.00000 - classifier Evaluation Experiment 26 of 100
+Param = 1.00000 - classifier Evaluation Experiment 27 of 100
+Param = 1.00000 - classifier Evaluation Experiment 28 of 100
+Param = 1.00000 - classifier Evaluation Experiment 29 of 100
+Param = 1.00000 - classifier Evaluation Experiment 30 of 100
+Param = 1.00000 - classifier Evaluation Experiment 31 of 100
+Param = 1.00000 - classifier Evaluation Experiment 32 of 100
+Param = 1.00000 - classifier Evaluation Experiment 33 of 100
+Param = 1.00000 - classifier Evaluation Experiment 34 of 100
+Param = 1.00000 - classifier Evaluation Experiment 35 of 100
+Param = 1.00000 - classifier Evaluation Experiment 36 of 100
+Param = 1.00000 - classifier Evaluation Experiment 37 of 100
+Param = 1.00000 - classifier Evaluation Experiment 38 of 100
+Param = 1.00000 - classifier Evaluation Experiment 39 of 100
+Param = 1.00000 - classifier Evaluation Experiment 40 of 100
+Param = 1.00000 - classifier Evaluation Experiment 41 of 100
+Param = 1.00000 - classifier Evaluation Experiment 42 of 100
+Param = 1.00000 - classifier Evaluation Experiment 43 of 100
+Param = 1.00000 - classifier Evaluation Experiment 44 of 100
+Param = 1.00000 - classifier Evaluation Experiment 45 of 100
+Param = 1.00000 - classifier Evaluation Experiment 46 of 100
+Param = 1.00000 - classifier Evaluation Experiment 47 of 100
+Param = 1.00000 - classifier Evaluation Experiment 48 of 100
+Param = 1.00000 - classifier Evaluation Experiment 49 of 100
+Param = 1.00000 - classifier Evaluation Experiment 50 of 100
+Param = 1.00000 - classifier Evaluation Experiment 51 of 100
+Param = 1.00000 - classifier Evaluation Experiment 52 of 100
+Param = 1.00000 - classifier Evaluation Experiment 53 of 100
+Param = 1.00000 - classifier Evaluation Experiment 54 of 100
+Param = 1.00000 - classifier Evaluation Experiment 55 of 100
+Param = 1.00000 - classifier Evaluation Experiment 56 of 100
+Param = 1.00000 - classifier Evaluation Experiment 57 of 100
+Param = 1.00000 - classifier Evaluation Experiment 58 of 100
+Param = 1.00000 - classifier Evaluation Experiment 59 of 100
+Param = 1.00000 - classifier Evaluation Experiment 60 of 100
+Param = 1.00000 - classifier Evaluation Experiment 61 of 100
+Param = 1.00000 - classifier Evaluation Experiment 62 of 100
+Param = 1.00000 - classifier Evaluation Experiment 63 of 100
+Param = 1.00000 - classifier Evaluation Experiment 64 of 100
+Param = 1.00000 - classifier Evaluation Experiment 65 of 100
+Param = 1.00000 - classifier Evaluation Experiment 66 of 100
+Param = 1.00000 - classifier Evaluation Experiment 67 of 100
+Param = 1.00000 - classifier Evaluation Experiment 68 of 100
+Param = 1.00000 - classifier Evaluation Experiment 69 of 100
+Param = 1.00000 - classifier Evaluation Experiment 70 of 100
+Param = 1.00000 - classifier Evaluation Experiment 71 of 100
+Param = 1.00000 - classifier Evaluation Experiment 72 of 100
+Param = 1.00000 - classifier Evaluation Experiment 73 of 100
+Param = 1.00000 - classifier Evaluation Experiment 74 of 100
+Param = 1.00000 - classifier Evaluation Experiment 75 of 100
+Param = 1.00000 - classifier Evaluation Experiment 76 of 100
+Param = 1.00000 - classifier Evaluation Experiment 77 of 100
+Param = 1.00000 - classifier Evaluation Experiment 78 of 100
+Param = 1.00000 - classifier Evaluation Experiment 79 of 100
+Param = 1.00000 - classifier Evaluation Experiment 80 of 100
+Param = 1.00000 - classifier Evaluation Experiment 81 of 100
+Param = 1.00000 - classifier Evaluation Experiment 82 of 100
+Param = 1.00000 - classifier Evaluation Experiment 83 of 100
+Param = 1.00000 - classifier Evaluation Experiment 84 of 100
+Param = 1.00000 - classifier Evaluation Experiment 85 of 100
+Param = 1.00000 - classifier Evaluation Experiment 86 of 100
+Param = 1.00000 - classifier Evaluation Experiment 87 of 100
+Param = 1.00000 - classifier Evaluation Experiment 88 of 100
+Param = 1.00000 - classifier Evaluation Experiment 89 of 100
+Param = 1.00000 - classifier Evaluation Experiment 90 of 100
+Param = 1.00000 - classifier Evaluation Experiment 91 of 100
+Param = 1.00000 - classifier Evaluation Experiment 92 of 100
+Param = 1.00000 - classifier Evaluation Experiment 93 of 100
+Param = 1.00000 - classifier Evaluation Experiment 94 of 100
+Param = 1.00000 - classifier Evaluation Experiment 95 of 100
+Param = 1.00000 - classifier Evaluation Experiment 96 of 100
+Param = 1.00000 - classifier Evaluation Experiment 97 of 100
+Param = 1.00000 - classifier Evaluation Experiment 98 of 100
+Param = 1.00000 - classifier Evaluation Experiment 99 of 100
+Param = 1.00000 - classifier Evaluation Experiment 100 of 100
+Param = 5.00000 - classifier Evaluation Experiment 1 of 100
+Param = 5.00000 - classifier Evaluation Experiment 2 of 100
+Param = 5.00000 - classifier Evaluation Experiment 3 of 100
+Param = 5.00000 - classifier Evaluation Experiment 4 of 100
+Param = 5.00000 - classifier Evaluation Experiment 5 of 100
+Param = 5.00000 - classifier Evaluation Experiment 6 of 100
+Param = 5.00000 - classifier Evaluation Experiment 7 of 100
+Param = 5.00000 - classifier Evaluation Experiment 8 of 100
+Param = 5.00000 - classifier Evaluation Experiment 9 of 100
+Param = 5.00000 - classifier Evaluation Experiment 10 of 100
+Param = 5.00000 - classifier Evaluation Experiment 11 of 100
+Param = 5.00000 - classifier Evaluation Experiment 12 of 100
+Param = 5.00000 - classifier Evaluation Experiment 13 of 100
+Param = 5.00000 - classifier Evaluation Experiment 14 of 100
+Param = 5.00000 - classifier Evaluation Experiment 15 of 100
+Param = 5.00000 - classifier Evaluation Experiment 16 of 100
+Param = 5.00000 - classifier Evaluation Experiment 17 of 100
+Param = 5.00000 - classifier Evaluation Experiment 18 of 100
+Param = 5.00000 - classifier Evaluation Experiment 19 of 100
+Param = 5.00000 - classifier Evaluation Experiment 20 of 100
+Param = 5.00000 - classifier Evaluation Experiment 21 of 100
+Param = 5.00000 - classifier Evaluation Experiment 22 of 100
+Param = 5.00000 - classifier Evaluation Experiment 23 of 100
+Param = 5.00000 - classifier Evaluation Experiment 24 of 100
+Param = 5.00000 - classifier Evaluation Experiment 25 of 100
+Param = 5.00000 - classifier Evaluation Experiment 26 of 100
+Param = 5.00000 - classifier Evaluation Experiment 27 of 100
+Param = 5.00000 - classifier Evaluation Experiment 28 of 100
+Param = 5.00000 - classifier Evaluation Experiment 29 of 100
+Param = 5.00000 - classifier Evaluation Experiment 30 of 100
+Param = 5.00000 - classifier Evaluation Experiment 31 of 100
+Param = 5.00000 - classifier Evaluation Experiment 32 of 100
+Param = 5.00000 - classifier Evaluation Experiment 33 of 100
+Param = 5.00000 - classifier Evaluation Experiment 34 of 100
+Param = 5.00000 - classifier Evaluation Experiment 35 of 100
+Param = 5.00000 - classifier Evaluation Experiment 36 of 100
+Param = 5.00000 - classifier Evaluation Experiment 37 of 100
+Param = 5.00000 - classifier Evaluation Experiment 38 of 100
+Param = 5.00000 - classifier Evaluation Experiment 39 of 100
+Param = 5.00000 - classifier Evaluation Experiment 40 of 100
+Param = 5.00000 - classifier Evaluation Experiment 41 of 100
+Param = 5.00000 - classifier Evaluation Experiment 42 of 100
+Param = 5.00000 - classifier Evaluation Experiment 43 of 100
+Param = 5.00000 - classifier Evaluation Experiment 44 of 100
+Param = 5.00000 - classifier Evaluation Experiment 45 of 100
+Param = 5.00000 - classifier Evaluation Experiment 46 of 100
+Param = 5.00000 - classifier Evaluation Experiment 47 of 100
+Param = 5.00000 - classifier Evaluation Experiment 48 of 100
+Param = 5.00000 - classifier Evaluation Experiment 49 of 100
+Param = 5.00000 - classifier Evaluation Experiment 50 of 100
+Param = 5.00000 - classifier Evaluation Experiment 51 of 100
+Param = 5.00000 - classifier Evaluation Experiment 52 of 100
+Param = 5.00000 - classifier Evaluation Experiment 53 of 100
+Param = 5.00000 - classifier Evaluation Experiment 54 of 100
+Param = 5.00000 - classifier Evaluation Experiment 55 of 100
+Param = 5.00000 - classifier Evaluation Experiment 56 of 100
+Param = 5.00000 - classifier Evaluation Experiment 57 of 100
+Param = 5.00000 - classifier Evaluation Experiment 58 of 100
+Param = 5.00000 - classifier Evaluation Experiment 59 of 100
+Param = 5.00000 - classifier Evaluation Experiment 60 of 100
+Param = 5.00000 - classifier Evaluation Experiment 61 of 100
+Param = 5.00000 - classifier Evaluation Experiment 62 of 100
+Param = 5.00000 - classifier Evaluation Experiment 63 of 100
+Param = 5.00000 - classifier Evaluation Experiment 64 of 100
+Param = 5.00000 - classifier Evaluation Experiment 65 of 100
+Param = 5.00000 - classifier Evaluation Experiment 66 of 100
+Param = 5.00000 - classifier Evaluation Experiment 67 of 100
+Param = 5.00000 - classifier Evaluation Experiment 68 of 100
+Param = 5.00000 - classifier Evaluation Experiment 69 of 100
+Param = 5.00000 - classifier Evaluation Experiment 70 of 100
+Param = 5.00000 - classifier Evaluation Experiment 71 of 100
+Param = 5.00000 - classifier Evaluation Experiment 72 of 100
+Param = 5.00000 - classifier Evaluation Experiment 73 of 100
+Param = 5.00000 - classifier Evaluation Experiment 74 of 100
+Param = 5.00000 - classifier Evaluation Experiment 75 of 100
+Param = 5.00000 - classifier Evaluation Experiment 76 of 100
+Param = 5.00000 - classifier Evaluation Experiment 77 of 100
+Param = 5.00000 - classifier Evaluation Experiment 78 of 100
+Param = 5.00000 - classifier Evaluation Experiment 79 of 100
+Param = 5.00000 - classifier Evaluation Experiment 80 of 100
+Param = 5.00000 - classifier Evaluation Experiment 81 of 100
+Param = 5.00000 - classifier Evaluation Experiment 82 of 100
+Param = 5.00000 - classifier Evaluation Experiment 83 of 100
+Param = 5.00000 - classifier Evaluation Experiment 84 of 100
+Param = 5.00000 - classifier Evaluation Experiment 85 of 100
+Param = 5.00000 - classifier Evaluation Experiment 86 of 100
+Param = 5.00000 - classifier Evaluation Experiment 87 of 100
+Param = 5.00000 - classifier Evaluation Experiment 88 of 100
+Param = 5.00000 - classifier Evaluation Experiment 89 of 100
+Param = 5.00000 - classifier Evaluation Experiment 90 of 100
+Param = 5.00000 - classifier Evaluation Experiment 91 of 100
+Param = 5.00000 - classifier Evaluation Experiment 92 of 100
+Param = 5.00000 - classifier Evaluation Experiment 93 of 100
+Param = 5.00000 - classifier Evaluation Experiment 94 of 100
+Param = 5.00000 - classifier Evaluation Experiment 95 of 100
+Param = 5.00000 - classifier Evaluation Experiment 96 of 100
+Param = 5.00000 - classifier Evaluation Experiment 97 of 100
+Param = 5.00000 - classifier Evaluation Experiment 98 of 100
+Param = 5.00000 - classifier Evaluation Experiment 99 of 100
+Param = 5.00000 - classifier Evaluation Experiment 100 of 100
+Param = 10.00000 - classifier Evaluation Experiment 1 of 100
+Param = 10.00000 - classifier Evaluation Experiment 2 of 100
+Param = 10.00000 - classifier Evaluation Experiment 3 of 100
+Param = 10.00000 - classifier Evaluation Experiment 4 of 100
+Param = 10.00000 - classifier Evaluation Experiment 5 of 100
+Param = 10.00000 - classifier Evaluation Experiment 6 of 100
+Param = 10.00000 - classifier Evaluation Experiment 7 of 100
+Param = 10.00000 - classifier Evaluation Experiment 8 of 100
+Param = 10.00000 - classifier Evaluation Experiment 9 of 100
+Param = 10.00000 - classifier Evaluation Experiment 10 of 100
+Param = 10.00000 - classifier Evaluation Experiment 11 of 100
+Param = 10.00000 - classifier Evaluation Experiment 12 of 100
+Param = 10.00000 - classifier Evaluation Experiment 13 of 100
+Param = 10.00000 - classifier Evaluation Experiment 14 of 100
+Param = 10.00000 - classifier Evaluation Experiment 15 of 100
+Param = 10.00000 - classifier Evaluation Experiment 16 of 100
+Param = 10.00000 - classifier Evaluation Experiment 17 of 100
+Param = 10.00000 - classifier Evaluation Experiment 18 of 100
+Param = 10.00000 - classifier Evaluation Experiment 19 of 100
+Param = 10.00000 - classifier Evaluation Experiment 20 of 100
+Param = 10.00000 - classifier Evaluation Experiment 21 of 100
+Param = 10.00000 - classifier Evaluation Experiment 22 of 100
+Param = 10.00000 - classifier Evaluation Experiment 23 of 100
+Param = 10.00000 - classifier Evaluation Experiment 24 of 100
+Param = 10.00000 - classifier Evaluation Experiment 25 of 100
+Param = 10.00000 - classifier Evaluation Experiment 26 of 100
+Param = 10.00000 - classifier Evaluation Experiment 27 of 100
+Param = 10.00000 - classifier Evaluation Experiment 28 of 100
+Param = 10.00000 - classifier Evaluation Experiment 29 of 100
+Param = 10.00000 - classifier Evaluation Experiment 30 of 100
+Param = 10.00000 - classifier Evaluation Experiment 31 of 100
+Param = 10.00000 - classifier Evaluation Experiment 32 of 100
+Param = 10.00000 - classifier Evaluation Experiment 33 of 100
+Param = 10.00000 - classifier Evaluation Experiment 34 of 100
+Param = 10.00000 - classifier Evaluation Experiment 35 of 100
+Param = 10.00000 - classifier Evaluation Experiment 36 of 100
+Param = 10.00000 - classifier Evaluation Experiment 37 of 100
+Param = 10.00000 - classifier Evaluation Experiment 38 of 100
+Param = 10.00000 - classifier Evaluation Experiment 39 of 100
+Param = 10.00000 - classifier Evaluation Experiment 40 of 100
+Param = 10.00000 - classifier Evaluation Experiment 41 of 100
+Param = 10.00000 - classifier Evaluation Experiment 42 of 100
+Param = 10.00000 - classifier Evaluation Experiment 43 of 100
+Param = 10.00000 - classifier Evaluation Experiment 44 of 100
+Param = 10.00000 - classifier Evaluation Experiment 45 of 100
+Param = 10.00000 - classifier Evaluation Experiment 46 of 100
+Param = 10.00000 - classifier Evaluation Experiment 47 of 100
+Param = 10.00000 - classifier Evaluation Experiment 48 of 100
+Param = 10.00000 - classifier Evaluation Experiment 49 of 100
+Param = 10.00000 - classifier Evaluation Experiment 50 of 100
+Param = 10.00000 - classifier Evaluation Experiment 51 of 100
+Param = 10.00000 - classifier Evaluation Experiment 52 of 100
+Param = 10.00000 - classifier Evaluation Experiment 53 of 100
+Param = 10.00000 - classifier Evaluation Experiment 54 of 100
+Param = 10.00000 - classifier Evaluation Experiment 55 of 100
+Param = 10.00000 - classifier Evaluation Experiment 56 of 100
+Param = 10.00000 - classifier Evaluation Experiment 57 of 100
+Param = 10.00000 - classifier Evaluation Experiment 58 of 100
+Param = 10.00000 - classifier Evaluation Experiment 59 of 100
+Param = 10.00000 - classifier Evaluation Experiment 60 of 100
+Param = 10.00000 - classifier Evaluation Experiment 61 of 100
+Param = 10.00000 - classifier Evaluation Experiment 62 of 100
+Param = 10.00000 - classifier Evaluation Experiment 63 of 100
+Param = 10.00000 - classifier Evaluation Experiment 64 of 100
+Param = 10.00000 - classifier Evaluation Experiment 65 of 100
+Param = 10.00000 - classifier Evaluation Experiment 66 of 100
+Param = 10.00000 - classifier Evaluation Experiment 67 of 100
+Param = 10.00000 - classifier Evaluation Experiment 68 of 100
+Param = 10.00000 - classifier Evaluation Experiment 69 of 100
+Param = 10.00000 - classifier Evaluation Experiment 70 of 100
+Param = 10.00000 - classifier Evaluation Experiment 71 of 100
+Param = 10.00000 - classifier Evaluation Experiment 72 of 100
+Param = 10.00000 - classifier Evaluation Experiment 73 of 100
+Param = 10.00000 - classifier Evaluation Experiment 74 of 100
+Param = 10.00000 - classifier Evaluation Experiment 75 of 100
+Param = 10.00000 - classifier Evaluation Experiment 76 of 100
+Param = 10.00000 - classifier Evaluation Experiment 77 of 100
+Param = 10.00000 - classifier Evaluation Experiment 78 of 100
+Param = 10.00000 - classifier Evaluation Experiment 79 of 100
+Param = 10.00000 - classifier Evaluation Experiment 80 of 100
+Param = 10.00000 - classifier Evaluation Experiment 81 of 100
+Param = 10.00000 - classifier Evaluation Experiment 82 of 100
+Param = 10.00000 - classifier Evaluation Experiment 83 of 100
+Param = 10.00000 - classifier Evaluation Experiment 84 of 100
+Param = 10.00000 - classifier Evaluation Experiment 85 of 100
+Param = 10.00000 - classifier Evaluation Experiment 86 of 100
+Param = 10.00000 - classifier Evaluation Experiment 87 of 100
+Param = 10.00000 - classifier Evaluation Experiment 88 of 100
+Param = 10.00000 - classifier Evaluation Experiment 89 of 100
+Param = 10.00000 - classifier Evaluation Experiment 90 of 100
+Param = 10.00000 - classifier Evaluation Experiment 91 of 100
+Param = 10.00000 - classifier Evaluation Experiment 92 of 100
+Param = 10.00000 - classifier Evaluation Experiment 93 of 100
+Param = 10.00000 - classifier Evaluation Experiment 94 of 100
+Param = 10.00000 - classifier Evaluation Experiment 95 of 100
+Param = 10.00000 - classifier Evaluation Experiment 96 of 100
+Param = 10.00000 - classifier Evaluation Experiment 97 of 100
+Param = 10.00000 - classifier Evaluation Experiment 98 of 100
+Param = 10.00000 - classifier Evaluation Experiment 99 of 100
+Param = 10.00000 - classifier Evaluation Experiment 100 of 100
+Param = 20.00000 - classifier Evaluation Experiment 1 of 100
+Param = 20.00000 - classifier Evaluation Experiment 2 of 100
+Param = 20.00000 - classifier Evaluation Experiment 3 of 100
+Param = 20.00000 - classifier Evaluation Experiment 4 of 100
+Param = 20.00000 - classifier Evaluation Experiment 5 of 100
+Param = 20.00000 - classifier Evaluation Experiment 6 of 100
+Param = 20.00000 - classifier Evaluation Experiment 7 of 100
+Param = 20.00000 - classifier Evaluation Experiment 8 of 100
+Param = 20.00000 - classifier Evaluation Experiment 9 of 100
+Param = 20.00000 - classifier Evaluation Experiment 10 of 100
+Param = 20.00000 - classifier Evaluation Experiment 11 of 100
+Param = 20.00000 - classifier Evaluation Experiment 12 of 100
+Param = 20.00000 - classifier Evaluation Experiment 13 of 100
+Param = 20.00000 - classifier Evaluation Experiment 14 of 100
+Param = 20.00000 - classifier Evaluation Experiment 15 of 100
+Param = 20.00000 - classifier Evaluation Experiment 16 of 100
+Param = 20.00000 - classifier Evaluation Experiment 17 of 100
+Param = 20.00000 - classifier Evaluation Experiment 18 of 100
+Param = 20.00000 - classifier Evaluation Experiment 19 of 100
+Param = 20.00000 - classifier Evaluation Experiment 20 of 100
+Param = 20.00000 - classifier Evaluation Experiment 21 of 100
+Param = 20.00000 - classifier Evaluation Experiment 22 of 100
+Param = 20.00000 - classifier Evaluation Experiment 23 of 100
+Param = 20.00000 - classifier Evaluation Experiment 24 of 100
+Param = 20.00000 - classifier Evaluation Experiment 25 of 100
+Param = 20.00000 - classifier Evaluation Experiment 26 of 100
+Param = 20.00000 - classifier Evaluation Experiment 27 of 100
+Param = 20.00000 - classifier Evaluation Experiment 28 of 100
+Param = 20.00000 - classifier Evaluation Experiment 29 of 100
+Param = 20.00000 - classifier Evaluation Experiment 30 of 100
+Param = 20.00000 - classifier Evaluation Experiment 31 of 100
+Param = 20.00000 - classifier Evaluation Experiment 32 of 100
+Param = 20.00000 - classifier Evaluation Experiment 33 of 100
+Param = 20.00000 - classifier Evaluation Experiment 34 of 100
+Param = 20.00000 - classifier Evaluation Experiment 35 of 100
+Param = 20.00000 - classifier Evaluation Experiment 36 of 100
+Param = 20.00000 - classifier Evaluation Experiment 37 of 100
+Param = 20.00000 - classifier Evaluation Experiment 38 of 100
+Param = 20.00000 - classifier Evaluation Experiment 39 of 100
+Param = 20.00000 - classifier Evaluation Experiment 40 of 100
+Param = 20.00000 - classifier Evaluation Experiment 41 of 100
+Param = 20.00000 - classifier Evaluation Experiment 42 of 100
+Param = 20.00000 - classifier Evaluation Experiment 43 of 100
+Param = 20.00000 - classifier Evaluation Experiment 44 of 100
+Param = 20.00000 - classifier Evaluation Experiment 45 of 100
+Param = 20.00000 - classifier Evaluation Experiment 46 of 100
+Param = 20.00000 - classifier Evaluation Experiment 47 of 100
+Param = 20.00000 - classifier Evaluation Experiment 48 of 100
+Param = 20.00000 - classifier Evaluation Experiment 49 of 100
+Param = 20.00000 - classifier Evaluation Experiment 50 of 100
+Param = 20.00000 - classifier Evaluation Experiment 51 of 100
+Param = 20.00000 - classifier Evaluation Experiment 52 of 100
+Param = 20.00000 - classifier Evaluation Experiment 53 of 100
+Param = 20.00000 - classifier Evaluation Experiment 54 of 100
+Param = 20.00000 - classifier Evaluation Experiment 55 of 100
+Param = 20.00000 - classifier Evaluation Experiment 56 of 100
+Param = 20.00000 - classifier Evaluation Experiment 57 of 100
+Param = 20.00000 - classifier Evaluation Experiment 58 of 100
+Param = 20.00000 - classifier Evaluation Experiment 59 of 100
+Param = 20.00000 - classifier Evaluation Experiment 60 of 100
+Param = 20.00000 - classifier Evaluation Experiment 61 of 100
+Param = 20.00000 - classifier Evaluation Experiment 62 of 100
+Param = 20.00000 - classifier Evaluation Experiment 63 of 100
+Param = 20.00000 - classifier Evaluation Experiment 64 of 100
+Param = 20.00000 - classifier Evaluation Experiment 65 of 100
+Param = 20.00000 - classifier Evaluation Experiment 66 of 100
+Param = 20.00000 - classifier Evaluation Experiment 67 of 100
+Param = 20.00000 - classifier Evaluation Experiment 68 of 100
+Param = 20.00000 - classifier Evaluation Experiment 69 of 100
+Param = 20.00000 - classifier Evaluation Experiment 70 of 100
+Param = 20.00000 - classifier Evaluation Experiment 71 of 100
+Param = 20.00000 - classifier Evaluation Experiment 72 of 100
+Param = 20.00000 - classifier Evaluation Experiment 73 of 100
+Param = 20.00000 - classifier Evaluation Experiment 74 of 100
+Param = 20.00000 - classifier Evaluation Experiment 75 of 100
+Param = 20.00000 - classifier Evaluation Experiment 76 of 100
+Param = 20.00000 - classifier Evaluation Experiment 77 of 100
+Param = 20.00000 - classifier Evaluation Experiment 78 of 100
+Param = 20.00000 - classifier Evaluation Experiment 79 of 100
+Param = 20.00000 - classifier Evaluation Experiment 80 of 100
+Param = 20.00000 - classifier Evaluation Experiment 81 of 100
+Param = 20.00000 - classifier Evaluation Experiment 82 of 100
+Param = 20.00000 - classifier Evaluation Experiment 83 of 100
+Param = 20.00000 - classifier Evaluation Experiment 84 of 100
+Param = 20.00000 - classifier Evaluation Experiment 85 of 100
+Param = 20.00000 - classifier Evaluation Experiment 86 of 100
+Param = 20.00000 - classifier Evaluation Experiment 87 of 100
+Param = 20.00000 - classifier Evaluation Experiment 88 of 100
+Param = 20.00000 - classifier Evaluation Experiment 89 of 100
+Param = 20.00000 - classifier Evaluation Experiment 90 of 100
+Param = 20.00000 - classifier Evaluation Experiment 91 of 100
+Param = 20.00000 - classifier Evaluation Experiment 92 of 100
+Param = 20.00000 - classifier Evaluation Experiment 93 of 100
+Param = 20.00000 - classifier Evaluation Experiment 94 of 100
+Param = 20.00000 - classifier Evaluation Experiment 95 of 100
+Param = 20.00000 - classifier Evaluation Experiment 96 of 100
+Param = 20.00000 - classifier Evaluation Experiment 97 of 100
+Param = 20.00000 - classifier Evaluation Experiment 98 of 100
+Param = 20.00000 - classifier Evaluation Experiment 99 of 100
+Param = 20.00000 - classifier Evaluation Experiment 100 of 100
+		C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/pop/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/country/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/blues/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/disco/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/jazz/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/classical/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/hiphop/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/metal/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/reggae/			C:/Users/MADHUKAR/Desktop/Capstone/samples/GTZAN/rock/		OVERALL
+	C	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	PRE	REC	f1	ACC	f1
+	0.001	72.7	56.8	63.8	55.8	57.9	56.8	57.9	68.2	62.7	53.1	65.1	58.5	70.3	36.3	47.9	76.4	90.8	83.0	72.3	67.4	69.8	63.9	87.6	73.9	70.9	61.9	66.1	45.2	40.6	42.8	63.3	62.5
+	0.010	75.9	71.8	73.8	62.9	68.5	65.6	67.7	77.9	72.4	62.5	65.3	63.9	84.8	73.9	79.0	92.2	92.8	92.5	79.3	69.9	74.3	75.6	85.3	80.1	72.9	66.1	69.3	55.4	54.0	54.7	72.5	72.6	 best f1	 best Acc
+	0.500	71.6	74.5	73.0	57.4	67.9	62.2	68.9	71.2	70.0	60.1	64.2	62.1	77.1	80.5	78.8	91.3	87.1	89.2	76.8	67.9	72.1	78.4	81.0	79.7	60.5	56.6	58.5	57.3	47.2	51.8	69.8	69.7
+	1.000	69.4	76.5	72.8	57.1	65.9	61.2	69.6	70.5	70.0	61.7	65.7	63.6	76.3	77.4	76.9	90.9	86.4	88.6	77.4	67.9	72.3	80.3	83.3	81.7	62.0	59.6	60.8	55.7	45.9	50.3	69.9	69.8
+	5.000	71.1	74.7	72.9	57.6	68.3	62.5	69.3	69.9	69.6	61.5	62.3	61.9	78.1	76.7	77.4	90.9	88.9	89.9	76.8	72.6	74.7	80.8	86.0	83.3	60.5	56.9	58.6	55.3	46.1	50.3	70.2	70.1
+	10.000	74.2	75.8	75.0	58.9	67.9	63.1	67.5	71.5	69.5	58.4	61.7	60.0	77.8	79.0	78.4	90.9	87.4	89.1	77.2	69.6	73.2	79.5	85.7	82.5	62.7	56.9	59.6	53.9	45.6	49.4	70.1	70.0
+	20.000	72.1	73.5	72.8	55.9	64.4	59.9	69.4	71.3	70.4	60.2	63.6	61.9	77.5	80.8	79.1	91.4	88.3	89.8	78.2	69.8	73.7	81.2	83.6	82.4	63.1	60.0	61.5	54.3	46.9	50.3	70.2	70.2
+Confusion Matrix:
+	C:/	C:/	C:/	C:/	C:/	C:/	C:/	C:/	C:/	C:/
+C:/	7.18	0.54	0.22	0.84	0.15	0.11	0.12	0.04	0.15	0.65
+C:/	0.23	6.85	0.63	0.37	0.07	0.00	0.00	0.41	0.00	1.44
+C:/	0.00	0.63	7.79	0.26	0.62	0.00	0.05	0.29	0.02	0.34
+C:/	0.76	0.56	0.26	6.53	0.03	0.05	0.53	0.29	0.64	0.35
+C:/	0.05	0.23	1.26	0.02	7.39	0.53	0.00	0.14	0.01	0.37
+C:/	0.00	0.15	0.07	0.00	0.35	9.28	0.00	0.00	0.00	0.15
+C:/	0.50	0.00	0.02	0.68	0.01	0.00	6.99	0.31	1.49	0.00
+C:/	0.01	0.08	0.00	0.41	0.00	0.00	0.06	8.53	0.00	0.91
+C:/	0.48	0.25	0.50	0.80	0.09	0.00	1.02	0.11	6.61	0.14
+C:/	0.25	1.60	0.76	0.53	0.00	0.09	0.05	1.17	0.15	5.40
+Selected params: 0.01000
+Snapshot saved to C:\Users\MADHUKAR\AppData\Local\JetBrains\PyCharm2020.1\snapshots\capstone.pstat
+
+Process finished with exit code 0
