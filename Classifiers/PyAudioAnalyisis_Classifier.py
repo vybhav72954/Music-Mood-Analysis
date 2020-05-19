@@ -1,5 +1,6 @@
 # Make sure to change the path
 # This will generate 3 files, make sure u dont delete them as they will come in handy
+# MAKE LOGS
 
 from pyAudioAnalysis import audioTrainTest as aT
 
