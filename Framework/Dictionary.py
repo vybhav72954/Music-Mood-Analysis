@@ -1,4 +1,6 @@
-test_loc = {}
+from collections import OrderedDict
+
+test_loc = OrderedDict()
 test_loc[0] = 'Agressive'
 test_loc[1] = 'Boisterous'
 test_loc[2] = 'Rowdy'
@@ -21,3 +23,6 @@ test_loc[18] = 'Humorous'
 test_loc[19] = 'Silly'
 test_loc[20] = 'Witty'
 test_loc[21] = 'Amiable_good_natured'
+test_loc[22] = 'Sweet'
+test_loc[23] = 'Tense - Anxious'
+test_loc[24] = 'Visceral'
