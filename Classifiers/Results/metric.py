@@ -1,10 +1,6 @@
-######TO BE CHECKED######
-
-
-
+#CHECKED 
 
 from pyAudioAnalysis import audioTrainTest as aT
-from plotly import subplots
 cm, thr_prre, pre, rec, thr_roc, fpr, tpr = aT.evaluate_model_for_folders(["C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 1/Agressive/",
                                "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 1/Boisterous/",
                                "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 1/Rowdy/",
@@ -32,4 +28,4 @@ cm, thr_prre, pre, rec, thr_roc, fpr, tpr = aT.evaluate_model_for_folders(["C:/U
                                "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 8/Amiable-good natured/",
                                "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 8/Sweet/"
                                "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 9/Tense - Anxious/"
-                               "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 9/Visceral/"], "C:/Users/asus/PycharmProjects/untitled/RF_Mirex","randomforest", "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 1/Agressive/", plot=True)
+                               "C:/Users/asus/Desktop/MIREX-like_mood/Audio/Cluster 9/Visceral/"], "C:/Users/asus/PycharmProjects/untitled/RF_Mirex","randomforest", "Agressive", plot=True)
