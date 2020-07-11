@@ -35,5 +35,5 @@ aT.extract_features_and_train(["D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\C
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Amiable-good natured\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Sweet\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\",
-                               "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Visceral\\"],
+                               "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Visceral\\,"],
                                 midTerm, midTerm/4, shortTerm, shortTerm/4, "randomforest", "RF_test", True)
