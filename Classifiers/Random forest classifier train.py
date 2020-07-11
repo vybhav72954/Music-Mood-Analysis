@@ -1,4 +1,13 @@
+#Change the Path
+#Chnage the Model Type
+#Follow  the same naming Convention
+#LOGS
+#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS#LOGS
+
+
 from pyAudioAnalysis import audioTrainTest as aT
+midTerm = 3
+shortTerm = 0.0625
 aT.extract_features_and_train(["D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Agressive\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Boisterous\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Rowdy\\",
@@ -27,4 +36,4 @@ aT.extract_features_and_train(["D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\C
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Sweet\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\",
                                "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Visceral\\"],
-                               0.125, 0.03125, aT.shortTermWindow, aT.shortTermStep, "randomforest", "RF_test", True)
+                                midTerm, midTerm/4, shortTerm, shortTerm/4, "randomforest", "RF_test", True)
