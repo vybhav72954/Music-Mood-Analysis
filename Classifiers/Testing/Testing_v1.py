@@ -6,8 +6,8 @@ cm, thr_prre, pre, rec, thr_roc, fpr, tpr = aT.evaluate_model_for_folders(["D:\\
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Boisterous\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Rowdy\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 1\\Volatile\\",
-                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Confident\\"
-                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Fiery\\"
+                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Confident\\",
+                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Fiery\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Intense\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Passionate\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 2\\Rousing\\",
@@ -27,7 +27,7 @@ cm, thr_prre, pre, rec, thr_roc, fpr, tpr = aT.evaluate_model_for_folders(["D:\\
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 7\\Silly\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 7\\Witty\\",
                                                                            "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Amiable-good natured\\",
-                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Sweet\\"
-                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\"
-                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Visceral\\"],
+                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 8\\Sweet\\",
+                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\",
+                                                                           "D:\\Capstone\\MIREX-like_mood\\dataset\\Audio\\Cluster 9\\Visceral\\",],
                                                                            "C:\\Users\\arman\\PycharmProjects\\Capstone\\Features\\RF1", "randomforest", "Agressive", plot=True)
