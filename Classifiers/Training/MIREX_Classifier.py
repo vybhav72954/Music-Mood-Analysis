@@ -12,8 +12,8 @@ aT.extract_features_and_train(["C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 1\\Boisterous\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 1\\Rowdy\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 1\\Volatile\\",
-                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Confident\\"
-                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Fiery\\"
+                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Confident\\",
+                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Fiery\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Intense\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Passionate\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 2\\Rousing\\",
@@ -33,9 +33,9 @@ aT.extract_features_and_train(["C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 7\\Silly\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 7\\Witty\\",
                                "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 8\\Amiable-good natured\\",
-                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 8\\Sweet\\"
-                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\"
-                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 9\\Visceral\\"],
+                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 8\\Sweet\\",
+                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 9\\Tense - Anxious\\",
+                               "C:\\Users\\asus\\Desktop\\MIREX\\dataset\\Audio\\Cluster 9\\Visceral\\",],
                               midTerm, midTerm/4, shortTerm, shortTerm/4, "extratrees", "ET_Vybhav_9-July", True)
 print("******************************************************************************************************************************")
 print("******************************************************************************************************************************")
