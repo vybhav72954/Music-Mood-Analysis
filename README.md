@@ -1,6 +1,6 @@
 # Capstone_EEG
-# Capstone_Project
-# by
-# Arman Beer Kaur
-# Vedansh Varshney
-# Vybhav Chaturvedi
+<br /> Capstone_Project
+<br /> by
+<br /> Arman Beer Kaur
+<br /> Vedansh Varshney
+<br /> Vybhav Chaturvedi
