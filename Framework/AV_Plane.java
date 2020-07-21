@@ -76,9 +76,7 @@ public class AnnoEmo extends JFrame implements CommonValue{
   	}
   	
   	public void startExperiment(String s) {	
-  		// called by a UserDataFrame instance
-  		// after a participant finishes filling in personal information
-  		// the experiment begin, and AnnoEmo and AVplane show up
+  		// AnnoEmo and AVplane show up
   		
   		avp.setFileWriter(s);
   		avp.getFrame().setVisible(true);
