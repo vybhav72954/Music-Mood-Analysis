@@ -51,19 +51,4 @@ song_value['min_distance'] = min_distances
 song_value['closest_pairs'] = [tuple(i.values) for i in closest_pairs]
 song_value['name'] = names
 
-root = tk.Tk()
 
-canvas1 = tk.Canvas(root, width=300, height=300, bg='lightsteelblue2', relief='raised')
-canvas1.pack()
-
-
-def exportCSV():
-    global song_value
-    export_file_path = filedialog.asksaveasfilename(defaultextension='.csv')
-    song_value.to_csv(export_file_path, index=False, header=True)
-
-
-saveAsButton_CSV = tk.Button(text='Export CSV', command=exportCSV, bg='green', fg='white',
-                             font=('helvetica', 12, 'bold'))
-canvas1.create_window(150, 150, window=saveAsButton_CSV)
-root.mainloop()
