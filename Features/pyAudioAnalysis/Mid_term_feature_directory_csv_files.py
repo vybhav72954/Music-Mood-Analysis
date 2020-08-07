@@ -1,3 +1,11 @@
+#TODO
+'''
+Add number of Features
+Add types of Features
+CSV Headers(if Possible)
+'''
+
+
 from pyAudioAnalysis import audioBasicIO
 from pyAudioAnalysis import MidTermFeatures
 
