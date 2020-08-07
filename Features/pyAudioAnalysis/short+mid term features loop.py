@@ -3,6 +3,12 @@ from pyAudioAnalysis import ShortTermFeatures
 from pyAudioAnalysis import MidTermFeatures
 from glob import glob
 
+#TODO
+'''
+Add number of Features
+Add types of Features
+'''
+
 data_dir = "C:/Users/MADHUKAR/Desktop/test/abc/*.wav"
 audio_files = glob(data_dir)
 
