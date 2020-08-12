@@ -4,5 +4,3 @@
 <br /> Arman Beer Kaur
 <br /> Vedansh Varshney
 <br /> Vybhav Chaturvedi
-
-@vybhav72954
