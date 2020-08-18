@@ -1,5 +1,4 @@
-# Capstone_EEG
-<br /> Capstone_Project
+# Capstone_Project
 <br /> by
 <br /> Arman Beer Kaur
 <br /> Vedansh Varshney
